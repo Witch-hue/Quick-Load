@@ -1,0 +1,16 @@
+{
+    "files": {
+        "README.md": "5ab311e247247adca4acf567e9c51aeb5d45f18276aeeeda7f6e16c4f14403c2",
+        "index.js": "f21a407eb178d2743b3aa8d2b6ac071e8b14aafa115483e9bc19ed29e9589891",
+        "module.json": "3ec8fe988e2d75a1865dcf481ad7782356a08c2316f8f7522c50b636c1d48f59"
+    },
+    "defs": {
+        "C_PLAYER_LOCATION": 5,
+        "C_VISIT_NEW_SECTION": "raw",
+        "S_ADMIN_HOLD_CHARACTER": [2,"raw"],
+        "S_INSTANT_MOVE": 3,
+        "S_LOAD_TOPO": 3,
+        "S_LOGIN": "raw",
+        "S_SPAWN_ME": 3
+    }
+}
